@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
               scale: 3,
               color: Colors.greenAccent,
               colorBlendMode: BlendMode.overlay,
-              repeat: ImageRepeat.repeat,
+              repeat: ImageRepeat.repeatX,
             ),
             width: 300,
             height: 400,
